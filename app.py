@@ -7,7 +7,7 @@ import uuid
 
 import json
 
-from backend import *
+from .backend import *
 
 # Initialize
 if "reactions_df" not in sst:
